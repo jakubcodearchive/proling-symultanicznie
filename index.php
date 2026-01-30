@@ -1,6 +1,6 @@
 <!-- Dynamic $title, $canonical and $description, $meta_keywords --> 
 <?php
-$title = "Tłumaczenia symultaniczne Gdańsk | Symultanicznie PL";
+$title = "Tłumaczenia symultaniczne Gdańsk – Biuro tłumaczeń | Symultanicznie PL";
 $canonical = "https://symultanicznie.pl/tlumaczenia-symultaniczne-gdansk/";
 $description = "Symultanicznie PL — profesjonalne tłumaczenia symultaniczne w Gdańsku. Kompleksowa obsługa konferencji, kabiny tłumaczeniowe i doświadczony tłumacz. Poproś o wycenę.";
 $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk, tłumacz symultaniczny, Symultanicznie PL, tłumaczenia konferencyjne";
@@ -52,7 +52,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
   </picture>
 
     <div class="overlay">
-        <h1 class="hero-title">Tłumaczenia symultaniczne – Gdańsk</h1>
+        <h1 class="hero-title">Tłumaczenia symultaniczne Gdańsk</h1>
 
         <h2 class="hero-subtitle">
             Profesjonalne biuro tłumaczeń konferencyjnych – Symultanicznie PL
@@ -77,7 +77,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       <h2 class="headline 
               headline--centered
               headline--b-margin-small">
-      Biuro tłumaczeń Proling – tłumaczenia symultaniczne dla biznesu
+      Biuro tłumaczeń Symultanicznie PL – tłumaczenia symultaniczne dla biznesu
       </h2>
 
       <!-- Sub-heading -->
@@ -89,19 +89,19 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
               headline--dark-blue
               headline--margin-top
           ">
-      Nasze biuro tłumaczeń w Gdańsku – kompleksowa obsługa konferencji
+      Biuro tłumaczeń działające w Gdańsku– kompleksowa obsługa konferencji
       </h3>
 
       <div class="wrapper--medium wrapper--medium--one-column-image
                       wrapper--medium--one-column-image--margin-top">
           <img 
               src="./images/small/tlumaczenie-symultaniczne.webp" 
-              alt="Tłumaczenia symultaniczne Poznań – profesjonalne biuro tłumaczeń Proling"
+              alt="Tłumaczenia symultaniczne Gdańsk – profesjonalne biuro tłumaczeń Proling"
               loading="lazy">
       </div>
 
       <p>
-      Nasze <strong>biuro tłumaczeń w Gdańsku</strong> specjalizuje się w realizacji 
+      Nasze biuro tłumaczeń świadczące usługi na tereie Trójmiasta specjalizuje się w realizacji 
       <strong>tłumaczeń symultanicznych</strong> oraz konsekutywnych podczas konferencji, 
       spotkań biznesowych i wydarzeń branżowych. 
       Dzięki połączeniu wiedzy językowej oraz profesjonalnego sprzętu konferencyjnego 
@@ -109,7 +109,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       </p>
 
       <p>
-      <strong>Tłumaczenia symultaniczne Gdańsk</strong> realizowane przez naszych tłumaczy 
+      Obsługa konferencji na terenie Gdańska realizowane przez naszych tłumaczy 
       to gwarancja precyzji, naturalnego brzmienia i pełnego zrozumienia przekazu. 
       Nasi doświadczeni specjaliści pracują w dynamicznym środowisku konferencyjnym, 
       gdzie liczy się tempo, koncentracja i doskonała znajomość kontekstu.
@@ -164,7 +164,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
           </h3>
 
           <p>
-            Nasze <strong>biuro tłumaczeń w Gdańsku</strong> specjalizuje się w obsłudze 
+            Nasze <strong>biuro tłumaczeń działające w Gdańsku</strong> specjalizuje się w obsłudze 
             <strong>tłumaczeń symultanicznych kabinowych</strong> podczas wydarzeń o zasięgu międzynarodowym. 
             Jednym z realizowanych projektów była kompleksowa obsługa konferencji branżowej 
             z udziałem przedstawicieli administracji publicznej, ekspertów oraz delegacji zagranicznych.
@@ -199,7 +199,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     </h3>
 
     <p>
-        Realizowaliśmy <strong>tłumaczenia symultaniczne</strong> podczas cyklu wydarzeń organizowanych przez CFA Society Poland — od konferencji branżowych po szkolenia i warsztaty dla profesjonalistów rynku kapitałowego. Projekt obejmował obsługę sesji plenarnych, paneli eksperckich oraz sesji Q&A, zapewniając płynną komunikację między prelegentami a międzynarodową publicznością. :contentReference[oaicite:0]{index=0}
+        Realizowaliśmy tłumaczenia symultaniczne podczas cyklu wydarzeń organizowanych przez CFA Society Poland — od konferencji branżowych po szkolenia i warsztaty dla profesjonalistów rynku kapitałowego. Projekt obejmował obsługę sesji plenarnych, paneli eksperckich oraz sesji Q&A, zapewniając płynną komunikację między prelegentami a międzynarodową publicznością. :contentReference[oaicite:0]{index=0}
     </p>
 
     <p>
@@ -207,7 +207,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     </p>
 
     <p>
-        Przygotowując tłumaczenia, opracowaliśmy glosariusz terminologii finansowej, dobraliśmy zespół doświadczonych tłumaczy konferencyjnych oraz skonfigurowaliśmy kabiny i kanały audio — w tym rozwiązania hybrydowe dla uczestników zdalnych. Dzięki temu każdy <strong>tłumacz symultaniczny</strong> mógł pracować w optymalnych warunkach, a uczestnicy otrzymali czytelny przekład specjalistycznych wystąpień.
+        Przygotowując tłumaczenia, opracowaliśmy glosariusz terminologii finansowej, dobraliśmy zespół <em>doświadczonych tłumaczy konferencyjnych oraz skonfigurowaliśmy kabiny </em>i kanały audio — w tym rozwiązania hybrydowe dla uczestników zdalnych. Dzięki temu każdy <strong>tłumacz symultaniczny</strong> mógł pracować w optymalnych warunkach, a uczestnicy otrzymali czytelny przekład specjalistycznych wystąpień.
     </p>
 
     <p>
@@ -274,14 +274,14 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
     <p>
         W ramach stałej współpracy z Polskim Związkiem Piłki Nożnej realizujemy
-        <strong>tłumaczenia symultaniczne</strong> podczas szkoleń i programów edukacyjnych
+        <strong>tłumaczenia symultaniczne podczas szkoleń i programów edukacyjnych</strong>
         kierowanych do trenerów pracujących w akademiach piłkarskich. Spotkania prowadzone są zarówno
         przez polskich specjalistów, jak i szkoleniowców z zagranicy, co wymaga sprawnej i precyzyjnej komunikacji
         między uczestnikami.
     </p>
 
     <p>
-        Sesje szkoleniowe odbywają się w różnych miastach – w tym w Warszawie, Poznaniu i <strong>Gdańsku</strong> –
+        Sesje szkoleniowe odbywają się w różnych miastach – w tym w <strong>Warszawie, Poznaniu i Gdańsku</strong> –
         a także na obiektach treningowych na terenie całej Polski. Tematyka obejmuje m.in. psychologię sportu,
         metodykę pracy z młodymi zawodnikami, analizę taktyczną oraz współczesne standardy szkolenia.
     </p>
@@ -330,7 +330,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
             o europejskich regulacjach środowiskowych, standardach emisyjnych i wyzwaniach operacyjnych.
             W wydarzeniu brali udział operatorzy spalarni, przedstawiciele branżowych stowarzyszeń
             oraz reprezentanci samorządów lokalnych. 
-            <strong>Tłumaczenia symultaniczne</strong> umożliwiły płynną wymianę wiedzy i doświadczeń między delegacjami z różnych państw.
+            Tłumaczenia symultaniczne umożliwiły płynną wymianę wiedzy i doświadczeń między delegacjami z różnych państw.
         </p>
 
         <p>
@@ -358,7 +358,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         </h3>
 
         <p>
-            Podczas jednego z projektów realizowaliśmy <strong>tłumaczenia symultaniczne</strong> dla UNICEF w ramach
+            Podczas jednego z projektów realizowaliśmy <strong>tłumaczenia symultaniczne dla UNICEF</strong> w ramach
             spotkania poświęconego prawom dzieci-uchodźców i dzieci migrujących. Wydarzenie zgromadziło ekspertów
             zajmujących się ochroną najmłodszych, przedstawicieli instytucji publicznych oraz organizacji międzynarodowych,
             a jego celem było omówienie barier i wyzwań związanych z dostępem do wymiaru sprawiedliwości dla dzieci
@@ -370,13 +370,6 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
             edukacyjne i systemowe rozwiązania wzmacniające instytucje publiczne. Tematyka konferencji odzwierciedlała
             jeden z kluczowych obszarów pracy organizacji: zapewnienie, aby każde dziecko — niezależnie od sytuacji
             migracyjnej — miało zagwarantowaną możliwość wysłuchania i sprawiedliwej procedury.
-        </p>
-
-        <p>
-            W trakcie wydarzenia odpowiadaliśmy za przekład wystąpień dotyczących międzynarodowych standardów ochrony
-            praw dziecka, praktyk stosowanych w różnych państwach oraz rekomendacji dla lokalnych instytucji. 
-            Tego typu treści wymagają dużej precyzji, znajomości terminologii prawnej i prawno-humanitarnej,
-            dlatego do projektu został dobrany zespół tłumaczy konferencyjnych przygotowanych merytorycznie do tej tematyki.
         </p>
 
         <p>
@@ -420,7 +413,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
   <header class="section-header">
     <h2 class="headline 
     headline--centered
-    ">Tłumaczenia symultaniczne – Gdańsk</h2>
+    ">tłumaczenia konferencyjne Trójmiasto</h2>
     
     <h3 class="headline 
     headline--small
@@ -476,7 +469,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
       <h3 class="headline headline--small headline--margin-top headline--grey">Tłumaczenia symultaniczne</h3>
       <p>
-        <strong>Tłumaczenia symultaniczne</strong> zapewniają płynność i tempo dyskusji podczas kongresów, konferencji
+        Tłumaczenia symultaniczne zapewniają płynność i tempo dyskusji podczas kongresów, konferencji
         i debat międzynarodowych. Jak to działa? Tłumacze pracują w kabinach, korzystając z profesjonalnego sprzętu, by
         dostarczyć przekład na żywo bez przerywania wystąpień. Zapewniamy pełen pakiet usług, min: ekipę tłumaczy oraz pełne wsparcie
         techniczne (kabiny, konsole, kanały audio) dostosowane do wielkości wydarzenia.
@@ -514,10 +507,10 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 <section class="section-margin">
 
   <div class="benefits-header">
-    <h1 class="headline 
+    <h2 class="headline 
     headline--centered 
     headline--b-margin-medium">
-    Symultaniczne czy konsekutywne?</h1>
+    Symultaniczne czy konsekutywne?</h2>
     <h3 class="headline 
       headline--centered 
       headline--light
@@ -541,7 +534,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     <div class="benefit-item">
       <h3 class="headline headline--small headline--centered">Jakość przekładu</h3>
       <span class="icon">★</span>
-      <p class="paragraph-centered">Tłumaczenia wykonywane przez doświadczonych tłumaczy konferencyjnych z przygotowaniem merytorycznym.</p>
+      <p class="paragraph-centered">Tłumaczenia wykonywane przez <strong>doświadczonych tłumaczy konferencyjnych <strong>z przygotowaniem merytorycznym.</p>
     </div>
 
     <div class="benefit-item">
@@ -638,8 +631,8 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <h3 class="headline headline--small headline--margin-top headline--grey">Nagłośnienie</h3>
 
         <p>
-          Zapewniamy profesjonalne nagłośnienie konferencji: mikrofony, kolumny, miksery oraz pełną obsługę techniczną. 
-          Wysoka jakość dźwięku jest kluczowa, aby <strong>tłumaczenia symultaniczne w Gdańsku</strong> były 
+          Udostęniamy profesjonalne nagłośnienie konferencji: mikrofony, kolumny, miksery oraz pełną obsługę techniczną. 
+          Wysoka jakość dźwięku jest kluczowa, aby tłumaczenia symultaniczne w Gdańsku były 
           czytelne, naturalne i wygodne dla uczestników.
         </p>
       </div>
@@ -658,7 +651,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
     <div class="qanda-item">
       <h3 class="headline--smooth headline--white headline--b-margin-medium">
-        Biuro tłumaczeń w Gdańsku i na terenie całej Polski
+        Obsługa tłumaczeniowa na terenie Gdańska i całej Polski
       </h3>
       <p class="p--white">
         Siedziba naszego <strong>biura tłumaczeń znajduje się w Gdańsku</strong>, ale obsługujemy tłumaczenia symultaniczne i konsekutywne 
@@ -670,7 +663,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
     <div class="qanda-item">
       <h3 class="headline--smooth headline--white headline--b-margin-medium">
-        Z jakimi branżami współpracujemy?
+        Z jakimi branżami pracujemy?
       </h3>
       <p class="p--white">
         Tłumaczymy wydarzenia z wielu sektorów — od konferencji medycznych, gospodarczych i akademickich,
@@ -703,7 +696,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     <h2 class="headline 
       headline--centered
       headline--b-margin-large">
-      FAQ — Tłumaczenia symultaniczne Gdańsk
+      FAQ — Co warto wiedzieć
     </h2>
   </header>
 
@@ -770,7 +763,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
   <h2 class="headline
   headline--centered 
   headline--b-margin-medium
-  headline--margin-top">Nasz Zespół Tłumaczy – Gdańsk</h2>
+  headline--margin-top">Nasz Zespół Tłumaczy – zespół Gdański</h2>
 
   <div class="team-grid">
 
@@ -798,7 +791,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
      <p class="our-team">
        Amerykanista i medioznawca, od lat związany z tłumaczeniami ustnymi na konferencjach 
        o tematyce społecznej, akademickiej i kulturowej. 
-       Jako <strong>tłumacz symultaniczny</strong> pracuje zarówno w kabinie, jak i podczas wydarzeń hybrydowych.  
+       Jako <strong>tłumacz symultaniczny języka angielskiego</strong> pracuje zarówno w kabinie, jak i podczas wydarzeń hybrydowych.  
        Współpracuje z instytucjami i firmami realizującymi spotkania w Gdańsku oraz innych dużych miastach w Polsce.
      </p>
      <div class="image-and-name">
@@ -890,7 +883,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
         <p>
             Od kilkunastu lat wspieramy organizatorów wydarzeń w Gdańsku, zapewniając 
-            profesjonalne <strong>tłumaczenia symultaniczne</strong> wraz z pełną obsługą techniczną. 
+            profesjonalne tłumaczenia symultaniczne wraz z pełną obsługą techniczną. 
             Współpracujemy z tłumaczami konferencyjnymi, którzy potrafią pracować pod presją czasu 
             i swobodnie poruszają się w różnych dziedzinach — od biznesu, przez technikę, 
             po tematy społeczne czy naukowe.
@@ -938,7 +931,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
     <p>
         Choć pracujemy w całej Polsce, to właśnie w Gdańsku najintensywniej rozwijamy 
-        nasze <strong>tłumaczenia symultaniczne</strong> i obsługę wydarzeń konferencyjnych. 
+        nasze tłumaczenia symultaniczne i obsługę wydarzeń konferencyjnych. 
         Na naszych profilach społecznościowych można znaleźć krótkie relacje z konferencji i szkoleń, 
         w których odpowiadaliśmy zarówno za pracę tłumaczy, jak i zaplecze techniczne.
     </p>
@@ -963,7 +956,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       <source srcset="./images/small/tlumaczenie-tour-guide.webp" type="image/webp">
       <img 
         src="./images/small/tlumaczenie-tour-guide.jpg" 
-        alt="Tłumaczenia symultaniczne Poznań – realizacja podczas konferencji" 
+        alt="Tłumaczenia symultaniczne Gdańsk – realizacja podczas konferencji" 
         loading="lazy">
     </picture>
   </div>
@@ -1005,7 +998,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       </h3>
 
       <p>
-        Wykonujemy <strong>tłumaczenia symultaniczne</strong>, <em>tłumaczenia konsekutywne</em> oraz <strong>tłumaczenia online</strong> 
+        Wykonujemy tłumaczenia symultaniczne, <em>tłumaczenia konsekutywne</em> oraz <strong>tłumaczenia online</strong> 
         — na platformach takich jak Zoom, Teams czy Google Meet. Każdy projekt wyceniamy indywidualnie, 
         dobierając rodzaj tłumaczenia i liczbę tłumaczy do charakteru wydarzenia i oczekiwań klienta.
       </p>
@@ -1020,7 +1013,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <svg class="icon" viewBox="0 0 24 24">
           <path d="M4 6h16v2H4V6zm0 5h16v2H4v-2zm0 5h10v2H4v-2z" fill="currentColor"/>
         </svg>
-        Zamów usługi naszego biura tłumaczeń w Gdańsku
+        Zamów usługi naszego biura w Gdańsku
       </h3>
 
       <p>
@@ -1042,7 +1035,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       </h3>
 
       <p>
-        <strong>Tłumaczenia symultaniczne</strong> to najlepszy wybór podczas dużych konferencji, debat i spotkań międzynarodowych — 
+        Tłumaczenia symultaniczne to najlepszy wybór podczas dużych konferencji, debat i spotkań międzynarodowych — 
         przekład odbywa się w czasie rzeczywistym, bez przerywania mówcy.
       </p>
       <p>
@@ -1069,12 +1062,29 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     <!-- JPG Fallback -->
     <img 
       src="./images/large/klienci-biura-tlumaczen-w-Poznaniu.jpg" 
-      alt="Tłumaczenie konsekutywne w biurze tłumaczeń Poznań"
+      alt="Tłumaczenie konsekutywne w biurze tłumaczeń Gdańsk"
       width="1031"
       height="199"
       loading="lazy">
   </picture>
 </section>
+
+<!-- Localized section --> 
+<section class="centered-text-section section-margin">
+
+  <div class="centered-text-container">
+      <h2 class="headline 
+              headline--centered
+              headline--b-margin-small">
+      Tłumaczenia symultaniczne w Gdańsku – lokalna obsługa konferencji</h2>
+      <p>
+          Nasze <strong>biuro tłumaczeń obsługuje wydarzenia w Gdańsku, Gdyni i Sopocie</strong>,
+        zapewniając tłumaczenia symultaniczne na konferencjach, szkoleniach i wydarzeniach międzynarodowych.
+        Działamy mobilnie i dojeżdżamy do obiektów konferencyjnych na terenie całego Trójmiasta.
+      </p>
+  </div><!-- end of centered-text-container -->
+</section>
+
  <!-- Contact & Footer Section -->
 <section class="contact-footer">
 
@@ -1089,7 +1099,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       <h3 class="headline headline--small">Kontakt</h3>
       <p><strong>Porling JS</strong><br>
         Ulica Woźna 10,<br>
-        61-777 Poznań<br>
+        61-777 Gdańsk<br>
         NIP: 2810024393<br>
         biuro@symultaniczne.pl<br>
         jakub.skrzeczkowski@gmail.com<br>
