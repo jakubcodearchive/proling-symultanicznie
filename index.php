@@ -26,8 +26,8 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <nav class="main-nav main-nav--pull-right">
             <ul class="nav-list">
                 <li><a href="#uslugi">Usługi</a></li>
-                <li><a href="#o-nas">O nas</a></li>
-                <li><a href="#referencje">Referencje</a></li>
+                <li><a href="#o_nas">O nas</a></li>
+                <li><a href="#projekty">Projekty</a></li>
                 <li><a href="#kontakt">Kontakt</a></li>
             </ul>
         </nav>
@@ -71,7 +71,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
 <div class="wrapper">
 <!-- Headline, subheadline, image --> 
-<section class="centered-text-section section-margin">
+<section id="uslugi" class="centered-text-section section-margin">
 
   <div class="centered-text-container">
       <h2 class="headline 
@@ -136,7 +136,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 </section>
 
 <!-- Our Projects section --> 
-<section class="section-margin">
+<section id="projekty" class="section-margin">
   <!-- TWO COLUMN LAYOUT -->
   <div class="service-grid">
 
@@ -199,11 +199,11 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     </h3>
 
     <p>
-        Realizowaliśmy tłumaczenia symultaniczne podczas cyklu wydarzeń organizowanych przez CFA Society Poland — od konferencji branżowych po szkolenia i warsztaty dla profesjonalistów rynku kapitałowego. Projekt obejmował obsługę sesji plenarnych, paneli eksperckich oraz sesji Q&A, zapewniając płynną komunikację między prelegentami a międzynarodową publicznością. :contentReference[oaicite:0]{index=0}
+        Realizowaliśmy tłumaczenia symultaniczne podczas cyklu wydarzeń organizowanych przez CFA Society Poland — od konferencji branżowych po szkolenia i warsztaty dla profesjonalistów rynku kapitałowego. Projekt obejmował obsługę sesji plenarnych, paneli eksperckich oraz sesji Q&A, zapewniając płynną komunikację między prelegentami a międzynarodową publicznością.
     </p>
 
     <p>
-        CFA Society Poland działa w sieci CFA Institute i organizuje wydarzenia edukacyjne, programy certyfikacyjne oraz szkolenia dla analityków i menedżerów — udział w ich konferencjach bierze zwykle kilkaset osób, w tym uczestnicy z całej Polski i goście zagraniczni. Z tego powodu przygotowanie terminologiczne i dobre zaplecze techniczne były kluczowe dla jakości przekładu. :contentReference[oaicite:1]{index=1}
+        CFA Society Poland działa w sieci CFA Institute i organizuje wydarzenia edukacyjne, programy certyfikacyjne oraz szkolenia dla analityków i menedżerów — udział w ich konferencjach bierze zwykle kilkaset osób, w tym uczestnicy z całej Polski i goście zagraniczni. Z tego powodu przygotowanie terminologiczne i dobre zaplecze techniczne były kluczowe dla jakości przekładu. 
     </p>
 
     <p>
@@ -413,7 +413,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
   <header class="section-header">
     <h2 class="headline 
     headline--centered
-    ">tłumaczenia konferencyjne Trójmiasto</h2>
+    ">Tłumaczenia konferencyjne Trójmiasto</h2>
     
     <h3 class="headline 
     headline--small
@@ -499,7 +499,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
   </div><!-- services grid -->
 
   <div class="section-cta">
-    <a href="#symultaniczne" class="btn-primary">Tłumaczenia symultaniczne</a>
+    <a href="#kontakt" class="btn-primary">Tłumaczenia symultaniczne</a>
   </div>
 </section>
 
@@ -532,9 +532,9 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     </div>
 
     <div class="benefit-item">
-      <h3 class="headline headline--small headline--centered">Jakość przekładu</h3>
+      <h3 class="headline headline--small headline--centered">Optymalna Jakość przekładu</h3>
       <span class="icon">★</span>
-      <p class="paragraph-centered">Tłumaczenia wykonywane przez <strong>doświadczonych tłumaczy konferencyjnych <strong>z przygotowaniem merytorycznym.</p>
+      <p class="paragraph-centered">Tłumaczenia wykonywane przez <strong>doświadczonych tłumaczy konferencyjnych </strong>z przygotowaniem merytorycznym.</p>
     </div>
 
     <div class="benefit-item">
@@ -646,46 +646,48 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
 
 <!-- Q and A section --> 
-<section class="section-margin">
-  <div class="qanda-grid">
+<section class="section-margin section-margin--blue">
+   <div class="wrapper wrapper--wide">
 
-    <div class="qanda-item">
-      <h3 class="headline--smooth headline--white headline--b-margin-medium">
-        Obsługa tłumaczeniowa na terenie Gdańska i całej Polski
-      </h3>
-      <p class="p--white">
-        Siedziba naszego <strong>biura tłumaczeń znajduje się w Gdańsku</strong>, ale obsługujemy tłumaczenia symultaniczne i konsekutywne 
-        podczas konferencji, szkoleń i wydarzeń specjalistycznych w całej Polsce. 
-        Regularnie pracujemy także w Warszawie, Poznaniu, Krakowie, Wrocławiu oraz mniejszych miejscowościach, 
-        zapewniając pełną mobilność zespołu tłumaczy i zaplecza technicznego.
-      </p>
+    <div class="qanda-grid">
+      <div class="qanda-item">
+        <h3 class="headline--smooth headline--white headline--b-margin-medium">
+          Obsługa tłumaczeniowa na terenie Gdańska i całej Polski
+        </h3>
+        <p class="p--white">
+          Siedziba naszego <strong>biura tłumaczeń znajduje się w Gdańsku</strong>, ale obsługujemy tłumaczenia symultaniczne i konsekutywne 
+          podczas konferencji, szkoleń i wydarzeń specjalistycznych w całej Polsce. 
+          Regularnie pracujemy także w Warszawie, Poznaniu, Krakowie, Wrocławiu oraz mniejszych miejscowościach, 
+          zapewniając pełną mobilność zespołu tłumaczy i zaplecza technicznego.
+        </p>
+      </div>
+
+      <div class="qanda-item">
+        <h3 class="headline--smooth headline--white headline--b-margin-medium">
+          Z jakimi branżami pracujemy?
+        </h3>
+        <p class="p--white">
+          Tłumaczymy wydarzenia z wielu sektorów — od konferencji medycznych, gospodarczych i akademickich,
+          po szkolenia techniczne, panele biznesowe oraz projekty kulturalne. 
+          Nasi <strong>tłumacze symultaniczni</strong> pracują w instytucjach publicznych, firmach prywatnych, 
+          na halach produkcyjnych, w uczelniach, muzeach oraz na wydarzeniach sportowych.
+        </p>
+      </div>
+
+      <div class="qanda-item">
+        <h3 class="headline--smooth headline--white headline--b-margin-medium">
+          Ile kosztują tłumaczenia symultaniczne?
+        </h3>
+        <p class="p--white">
+          W celu zapoznania się z ceną poprosimy o przedstawienie takich informacji jak: miejsce wydarzenia, 
+          ilość gości oraz czas trwania spotkania. To pomoże nam obiektywnie wycenić Państwa usługę.
+          Na koszt wpływa również niezbędne wyposażenie techniczne, 
+          takie jak kabiny tłumaczeniowe, nagłośnienie czy zestawy słuchawkowe. 
+          Każdą realizację wyceniamy indywidualnie, aby dopasować ofertę do potrzeb organizatora.
+        </p>
+      </div>
+
     </div>
-
-    <div class="qanda-item">
-      <h3 class="headline--smooth headline--white headline--b-margin-medium">
-        Z jakimi branżami pracujemy?
-      </h3>
-      <p class="p--white">
-        Tłumaczymy wydarzenia z wielu sektorów — od konferencji medycznych, gospodarczych i akademickich,
-        po szkolenia techniczne, panele biznesowe oraz projekty kulturalne. 
-        Nasi <strong>tłumacze symultaniczni</strong> pracują w instytucjach publicznych, firmach prywatnych, 
-        na halach produkcyjnych, w uczelniach, muzeach oraz na wydarzeniach sportowych.
-      </p>
-    </div>
-
-    <div class="qanda-item">
-      <h3 class="headline--smooth headline--white headline--b-margin-medium">
-        Ile kosztują tłumaczenia symultaniczne?
-      </h3>
-      <p class="p--white">
-        W celu zapoznania się z ceną poprosimy o przedstawienie takich informacji jak: miejsce wydarzenia, 
-        ilość gości oraz czas trwania spotkania. To pomoże nam obiektywnie wycenić Państwa usługę.
-         Na koszt wpływa również niezbędne wyposażenie techniczne, 
-        takie jak kabiny tłumaczeniowe, nagłośnienie czy zestawy słuchawkowe. 
-        Każdą realizację wyceniamy indywidualnie, aby dopasować ofertę do potrzeb organizatora.
-      </p>
-    </div>
-
   </div>
 </section>
 
@@ -759,7 +761,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
 
 <!-- Team -->
-<section class="section-margin">
+<section id="o_nas" class="section-margin">
   <h2 class="headline
   headline--centered 
   headline--b-margin-medium
@@ -1086,7 +1088,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 </section>
 
  <!-- Contact & Footer Section -->
-<section class="contact-footer">
+<section id="kontakt" class="contact-footer">
 
   <div class="contact-top">
     <iframe

@@ -4,12 +4,13 @@
 } */
 
 :root {
-  --wrapper-max-width: 1236px;
+  --wrapper-max-width: 1500px;
+  --wrapper-wide-max-width: 1800px;
 
   --headline-grey: #2d3a59;
   --headline-dark-blue: #0f1e49;
   --blue-background: #236e9b;
-  --h1-color: ##3a3a3a;
+  --h1-color: #3a3a3a;
 
   --h1-margin-top-100: 100px;
   --h1-margin-top-150: 150px;
@@ -127,10 +128,8 @@ p ul li {
 
 .wrapper {
   padding: 1px 18px; /* for some reason i got to put 1, otherwise the padding set on the site-header does not work, the 1px gives it something to be propped against */
-  max-width: 1236px;
-  /* we want center location for content of the wrapper */
+  max-width: var(--wrapper-max-width);
   margin: 0 auto;
-  /* background-color: green; */
   overflow: hidden;
 }
 
@@ -142,6 +141,15 @@ p ul li {
 .wrapper .wrapper--medium {
   padding: 0;
 }
+
+.wrapper--wide {
+  max-width: var(--wrapper-wide-max-width);
+}
+
+.wrapper--wide-flexbox-fix {
+
+}
+
 
 /* This addition to the .wrapper class is for the h2, h3, and image section */
 /* It makes sure the image is proper size on mobile, tablet and big size /* 
@@ -169,21 +177,18 @@ p ul li {
 }
 
 /* Page section is responsible for padding top and bottom of particular sections */
-.page-section--blue {
-  background-color: #003d80;
-}
-
 /* Section Padding */
 .section-margin {
-  /* margin-top: 25vh; */
-  /* border: 1px solid green; */
   padding-top: var(--page-section-padding-small);
   padding-bottom: var(--page-section-padding-small);
 }
 
+.section-margin--blue {
+  background-color: var(--blue-background);
+}
+
 @media (min-width: 530px) {
   .section-margin {
-    /* margin-top: 25vh; */
     padding-top: var(--page-section-padding-small);
     padding-bottom: var(--page-section-padding-medium);
   }
@@ -191,7 +196,6 @@ p ul li {
 
 @media (min-width: 800px) {
   .section-margin {
-    /* margin-top: 25vh; */
     padding-top: var(--page-section-padding-big);
     padding-bottom: var(--page-section-padding-big);
   }
@@ -199,7 +203,6 @@ p ul li {
 
 @media (min-width: 1200px) {
   .section-margin {
-    /* margin-top: 25vh; */
     padding-top: var(--page-section-padding-large);
     padding-bottom: var(--page-section-padding-large);
   }
@@ -894,6 +897,7 @@ p ul li {
 }
 
 .benefit-item {
+  margin-top: 20px;
   background-color: #f5f6fa;
   flex: 1 1 220px;
   max-width: 280px;
@@ -925,7 +929,7 @@ p ul li {
 
 .service-card {
   flex: 1 1 300px;
-  max-width: 320px;
+  max-width: 500px;
   text-align: left;
 }
 
@@ -946,8 +950,8 @@ p ul li {
 }
 
 /* Q and A session */
+
 .qanda-grid {
-  background-color: var(--blue-background);
   display: flex;
   flex-direction: column;
   padding: 1.25rem;
@@ -959,7 +963,6 @@ p ul li {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
   padding: 30px 20px;
   border: 1px solid white;
 }
@@ -968,7 +971,7 @@ p ul li {
   color: white;
 }
 
-@media (min-width: 800px) {
+/* @media (min-width: 800px) {
   .qanda-grid {
     flex-direction: row;
     gap: 2rem;
@@ -977,17 +980,23 @@ p ul li {
   .qanda-item {
     padding: 35px 25px;
   }
-}
+} */
 
 @media (min-width: 1200px) {
   .qanda-grid {
-    width: 1200px;
-    padding: 60px;
+  
+    flex-direction: row;
+    /* justify-content: center; */
+    /* width: 1200px; */
+    gap: 2; 
+    padding: 30px;
   }
 
   .qanda-item {
-    padding: 60px 40px;
-    width: 330px;
+    padding: 40px;
+    flex: 1 1 0;
+    max-width: 600px; 
+
   }
 }
 
