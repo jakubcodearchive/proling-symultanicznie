@@ -44,7 +44,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     
     <!-- Fallback image for browsers that don't support WebP -->
     <img src="images/index/poznan_symultaniczne.jpg" 
-      alt="Tłumacz symultaniczny podczas konferencji w Poznaniu"
+      alt="Tłumacz symultaniczny pracujący w kabinie podczas konferencji biznesowej"
       width="600"
       height="400"
       loading="lazy"
@@ -77,7 +77,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       <h2 class="headline 
               headline--centered
               headline--b-margin-small">
-      Biuro tłumaczeń Symultanicznie PL – tłumaczenia symultaniczne dla biznesu
+        Biuro tłumaczeń Symultanicznie PL – obsługa konferencji i wydarzeń
       </h2>
 
       <!-- Sub-heading -->
@@ -96,7 +96,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
                       wrapper--medium--one-column-image--margin-top">
           <img 
               src="./images/small/tlumaczenie-symultaniczne.webp" 
-              alt="Tłumaczenia symultaniczne Gdańsk – profesjonalne biuro tłumaczeń Proling"
+              alt="Profesjonalne tłumaczenia symultaniczne podczas konferencji i wydarzeń biznesowych"
               loading="lazy">
       </div>
 
@@ -148,7 +148,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
             <img 
              
               src="images/img/biuro-tlumaczen-miedzynarodowe-fallback.jpg" 
-              alt="Tłumaczenie ustne w międzynarodowym biurze tłumaczeń"
+              alt="Nasze biuro obsługuje tłumaczenia ustne podczas międzynarodowej konferencji"
               width="600" 
               height="400"
               loading="lazy"
@@ -160,7 +160,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
        <!-- Text Column -->
         <div class="text-column">
           <h3 class="headline headline--small headline--narrow headline--b-margin-small">
-            Tłumaczenia symultaniczne w Gdańsku – międzynarodowa konferencja branżowa
+            Obsługa symultaniczna międzynarodowej konferencji branżowej
           </h3>
 
           <p>
@@ -195,7 +195,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     <!-- Text Column -->
     <div class="text-column">
     <h3 class="headline headline--small headline--narrow headline--b-margin-small">
-        Tłumaczenia symultaniczne dla CFA Society Poland — konferencje i szkolenia branżowe
+        Obsługa tłumaczeń konferencyjnych dla CFA Society Poland
     </h3>
 
     <p>
@@ -229,7 +229,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <img 
          
           src="images/img/kabiny_symultaniczne-fallback.jpg" 
-          alt="Kabiny do tłumaczenia symultanicznego na konferencji"
+          alt="Kabiny do tłumaczeń symultanicznych i system audio na konferencji branżowej"
           width="600" 
           height="400"
           loading="lazy"
@@ -257,7 +257,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
           <!-- Fallback image (JPG) -->
           <img 
             src="images/img/kongres-symultaniczne-fallback.jpg" 
-            alt="Tłumacz symultaniczny podczas kongresu międzynarodowego" 
+            alt="Tłumacz konferencyjny podczas szkolenia i warsztatów międzynarodowych" 
             width="600" 
             height="400" 
             loading="lazy"
@@ -307,7 +307,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     <!-- Text Column -->
     <div class="text-column">
         <h3 class="headline headline--small headline--narrow headline--b-margin-small">
-            Tłumaczenia symultaniczne dla sektora środowiskowego – konferencje IPTOK i szkolenia branżowe
+            Tłumaczenia konferencyjne dla sektora środowiskowego
         </h3>
 
         <p>
@@ -344,7 +344,8 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
     <div class="image-column">
         <picture>
         <source srcset="./images/small/kabina-symultaniczna.webp" media="(min-width: 800px)"> 
-        <img class="row__4-image" src="./images/balkany.jpg" alt="Tłumacz symultaniczny na konferencji w Poznaniu">
+        <img class="row__4-image" src="./images/balkany.jpg"
+         alt="Tłumaczenia symultaniczne podczas konferencji technicznej">
         </picture>
     </div>
 
@@ -397,7 +398,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <!-- Fallback image (JPG) -->
         <img 
             src="images/img/tlumaczenia-wielojezyczne-polska-fallback.jpg" 
-            alt="Tłumaczenia wielojęzyczne oferowane przez biuro tłumaczeń w Polsce" 
+            alt="Wielojęzyczna obsługa konferencji międzynarodowej" 
             width="600" 
             height="400" 
             loading="lazy"
@@ -460,7 +461,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <source srcset="./images/small/balkany-small.webp" type="image/webp">
         <img 
           src="./images/small/balkany-small.jpg" 
-          alt="Tłumaczenia symultaniczne podczas kongresu"
+          alt="Tłumaczenia symultaniczne podczas konferencji i debat międzynarodowych"
           width="420" 
           height="580" 
           loading="lazy" 
@@ -557,7 +558,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 <section class="section-margin">
     <h2 class="headline 
     headline--centered 
-    headline--margin-top-large">Biuro tłumaczeń Gdańsk – usługi dodatkowe</h2>
+    headline--margin-top-large">Usługi dodatkowe biura tłumaczeń – wsparcie techniczne konferencji</h2>
 
     <p class="headline 
       headline--centered 
@@ -579,7 +580,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
           <source srcset="./images/small/oswietlenie-led-biuro-tlumaczen.webp" type="image/webp">
           <img 
             src="./images/small/oswietlenie-led-biuro-tlumaczen.jpg" 
-            alt="Oświetlenie konferencyjne – usługi dodatkowe biura tłumaczeń w Gdańsku" 
+            alt="Oświetlenie sceniczne wspierające konferencje i wydarzenia biznesowe" 
             width="420" 
             height="580" 
             loading="lazy">
@@ -600,7 +601,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
           <source srcset="./images/small/kabina-symultaniczna.webp" type="image/webp">
           <img 
             src="./images/small/kabina-symultaniczna.jpg" 
-            alt="System tour guide – mobilne tłumaczenie ustne w Gdańsku" 
+            alt="System tour guide do mobilnych tłumaczeń ustnych podczas wizyt studyjnych" 
             width="420" 
             height="580" 
             loading="lazy">
@@ -622,7 +623,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
           <source srcset="./images/small/naglosnienie-konferencji-eventow-Poznan.webp" type="image/webp">
           <img 
             src="./images/small/naglosnienie-konferencji-eventow-Poznan.jpg" 
-            alt="Nagłośnienie konferencji i wydarzeń – obsługa techniczna w Gdańsku" 
+            alt="Nagłośnienie konferencji i obsługa techniczna wydarzeń" 
             width="420" 
             height="580" 
             loading="lazy">
@@ -765,7 +766,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
   <h2 class="headline
   headline--centered 
   headline--b-margin-medium
-  headline--margin-top">Nasz Zespół Tłumaczy – zespół Gdański</h2>
+  headline--margin-top">Nasz Zespół tłumaczy – zespół Gdański</h2>
 
   <div class="team-grid">
 
@@ -781,7 +782,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <img 
           class="head-picture"
           src="./images/small/dobry-tlumacz-symultaniczny-Poznan.jpg" 
-          alt="Tłumacz symultaniczny podczas pracy" 
+          alt="Jakub Skrzeczkowski - członek naszego zespołu" 
           width="250" 
           height="250" 
           loading="lazy">
@@ -800,7 +801,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <img 
           class="head-picture"
           src="./images/small/tlumacz-symultaniczny-jezyka-angielskiego.jpg" 
-          alt="Tłumacz symultaniczny języka angielskiego" 
+          alt="Tłumacz symultaniczny języka angielskiego - członek zespołu Symultanicznie PL" 
           width="250" 
           height="250" 
           loading="lazy">
@@ -820,7 +821,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
         <img 
           class="head-picture"
           src="./images/small/pracownik-biura-tlumaczen.jpg" 
-          alt="Koordynatorka tłumaczeń konferencyjnych" 
+          alt="Koordynatorka - członek naszego zespołu" 
           width="250" 
           height="250" 
           loading="lazy">
@@ -837,7 +838,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 
     <div class="project-text">
         <h3 class="headline headline--small headline--margin-top">
-            Biuro tłumaczeń Gdańsk – pracujemy w oparciu o realne potrzeby klientów
+            Jak pracujemy z klientami – podejście projektowe
         </h3>
 
         <p>
@@ -880,7 +881,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
   <div class="project-section">
     <div class="project-text">
         <h3 class="headline headline--small headline--margin-top">
-            Kabiny tłumaczeniowe, tłumacze i zaplecze techniczne
+            Zaplecze techniczne i zespoły tłumaczy konferencyjnych
         </h3>
 
         <p>
@@ -928,7 +929,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
  <div class="project-section">
     <div class="project-text">
     <h3 class="headline headline--small headline--margin-top">
-        Gdańsk – tutaj rozwijamy tłumaczenia symultaniczne
+        Rozwój obsługi konferencji w Gdańsku i Trójmieście
     </h3>
 
     <p>
@@ -1078,7 +1079,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       <h2 class="headline 
               headline--centered
               headline--b-margin-small">
-      Tłumaczenia symultaniczne w Gdańsku – lokalna obsługa konferencji</h2>
+      Lokalna obsługa konferencji i wydarzeń w Gdańsku</h2>
       <p>
           Nasze <strong>biuro tłumaczeń obsługuje wydarzenia w Gdańsku, Gdyni i Sopocie</strong>,
         zapewniając tłumaczenia symultaniczne na konferencjach, szkoleniach i wydarzeniach międzynarodowych.
@@ -1091,11 +1092,13 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 <section id="kontakt" class="contact-footer">
 
   <div class="contact-top">
-    <iframe
-      class="contact-map"
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.217399038825!2d16.936239815798066!3d52.40675657979033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470445ee4f3a244f%3A0xa7f91158c0d5c3c7!2sWo%C5%BAna%2010%2F26%2C%2061-777%20Pozna%C5%84!5e0!3m2!1spl!2spl!4v1710000000000!5m2!1spl!2spl"
-      allowfullscreen="" loading="lazy">
-    </iframe>
+  <iframe
+    class="contact-map"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2331.702873918046!2d18.65305181596241!3d54.34808058019895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd73a4f1c5b5bb%3A0x9a2b0c1a6d7f8f3d!2sD%C5%82ugi%20Targ%201%2C%2080-828%20Gda%C5%84sk!5e0!3m2!1spl!2spl!4v1710000000000"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
 
     <div class="contact-info">
       <h3 class="headline headline--small">Kontakt</h3>
