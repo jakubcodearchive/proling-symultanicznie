@@ -37,7 +37,7 @@
   </div>
 </footer>
 
-<script src="scripts/modules/index.js"></script>
+<script src="/scripts/modules/index.js"></script>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {

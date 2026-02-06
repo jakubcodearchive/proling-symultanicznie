@@ -37,7 +37,7 @@
 <!-- HERO SECTION -->
 <section class="hero">
   <picture>
-    <img src="images/index/poznan_symultaniczne.jpg"
+    <img src="/images/index/poznan_symultaniczne.jpg"
          alt="Obsługa konferencji z tłumaczeniem symultanicznym w Szczecinie"
          width="600" height="400" loading="lazy">
   </picture>
@@ -101,7 +101,7 @@
     <!-- Image Column -->
     <div class="image-column">
       <picture>
-        <img src="images/szczecin/kongres-symultaniczne-fallback.jpg"
+        <img src="/images/szczecin/kongres-symultaniczne-fallback.jpg"
             alt="Obsługa konferencji naukowej poświęconej historii Pomorza Zachodniego w Szczecinie"
             width="600"
             height="400"
@@ -155,7 +155,7 @@
     <!-- Image Column -->
     <div class="image-column">
       <picture>
-        <img src="images/szczecin/energetyka.png"
+        <img src="/images/szczecin/energetyka.png"
             alt="Konferencja branżowa poświęcona polityce energetycznej i energetyce wiatrowej w regionie Pomorza Zachodniego"
             width="600"
             height="400"
@@ -214,7 +214,7 @@
     <div class="image-column">
       <picture>
         <img 
-          src="images/szczecin/pilka_nozna.jpg" 
+          src="/images/szczecin/pilka_nozna.jpg" 
           alt="Tłumaczenia symultaniczne podczas szkolenia trenerów na stadionie Pogoni Szczecin"
           width="600" 
           height="400"
@@ -264,7 +264,7 @@
 
     <div class="image-column">
       <picture>
-        <img src="images/szczecin/szczecin-instytucja.jpg"
+        <img src="/images/szczecin/szczecin-instytucja.jpg"
             alt="Tłumacz konferencyjny podczas wydarzenia instytucjonalnego"
             width="600" height="400" loading="lazy">
       </picture>
@@ -324,9 +324,9 @@
     <!-- Service Item -->
     <div class="service-item">
       <picture>
-        <source srcset="./images/small/tlumaczenia-wielojezyczne-polska-small.webp" type="image/webp">
+        <source srcset="/images/small/tlumaczenia-wielojezyczne-polska-small.webp" type="image/webp">
         <img 
-          src="./images/small/tlumaczenia-wielojezyczne-polska-small.jpg"
+          src="/images/small/tlumaczenia-wielojezyczne-polska-small.jpg"
           alt="Tłumaczenia konsekutywne podczas spotkań biznesowych w Szczecinie"
           loading="lazy"
           width="420"
@@ -350,9 +350,9 @@
     <!-- Service Item -->
     <div class="service-item">
       <picture>
-        <source srcset="./images/small/balkany-small.webp" type="image/webp">
+        <source srcset="/images/small/balkany-small.webp" type="image/webp">
         <img 
-          src="./images/small/balkany-small.jpg"
+          src="/images/small/balkany-small.jpg"
           alt="Tłumaczenia symultaniczne podczas konferencji międzynarodowej w Szczecinie"
           width="420"
           height="580"
@@ -376,9 +376,9 @@
     <!-- Service Item -->
     <div class="service-item">
       <picture>
-        <source srcset="./images/small/dendro-small.webp" type="image/webp">
+        <source srcset="/images/small/dendro-small.webp" type="image/webp">
         <img 
-          src="./images/small/dendro-small.jpg"
+          src="/images/small/dendro-small.jpg"
           alt="Tłumaczenia symultaniczne online i obsługa hybrydowa wydarzeń"
           width="420"
           height="580"
@@ -506,7 +506,7 @@
       <div class="image-and-name">
         <img 
           class="head-picture"
-          src="./images/small/dobry-tlumacz-symultaniczny-Poznan.jpg" 
+          src="/images/small/dobry-tlumacz-symultaniczny-Poznan.jpg" 
           alt="Jakub Skrzeczkowski – koordynator projektów tłumaczeń konferencyjnych" 
           width="250" 
           height="250" 
@@ -527,7 +527,7 @@
       <div class="image-and-name">
         <img 
           class="head-picture"
-          src="./images/small/tlumacz-symultaniczny-jezyka-angielskiego.jpg" 
+          src="/images/small/tlumacz-symultaniczny-jezyka-angielskiego.jpg" 
           alt="Józef Jaskulski – tłumacz konferencyjny języka angielskiego" 
           width="250" 
           height="250" 
@@ -549,7 +549,7 @@
       <div class="image-and-name">
         <img 
           class="head-picture"
-          src="./images/small/pracownik-biura-tlumaczen.jpg" 
+          src="/images/small/pracownik-biura-tlumaczen.jpg" 
           alt="Bożena Śliwińska – koordynacja obsługi konferencji" 
           width="250" 
           height="250" 
@@ -673,13 +673,13 @@
 <section id="kontakt" class="contact-footer">
 
   <div class="contact-top">
-  <iframe
-    class="contact-map"
-    src="https://www.google.com/maps?q=Baltic%20Business%20Park%20Szczecin&output=embed"
-    allowfullscreen=""
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
-  </iframe>
+    <iframe
+      class="contact-map"
+      src="https://www.google.com/maps?q=Baltic%20Business%20Park%20Szczecin&output=embed"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
 
     <div class="contact-info">
       <h3 class="headline headline--small">Kontakt</h3>
