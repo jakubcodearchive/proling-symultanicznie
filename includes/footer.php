@@ -23,8 +23,8 @@
     </div>
 
     <div class="footer-links">
-      <a href="/biuro-tlumaczen-szczecin.php">Biuro tłumaczeń Szczecin</a>
-      <a href="/biuro-tlumaczen-gdansk.php">Biuro tłumaczeń Gdansk</a>
+      <a href="/tlumaczenia-symultaniczne-szczecin/">Biuro tłumaczeń Szczecin</a>
+      <a href="/">Biuro tłumaczeń Gdansk</a>
     </div>
   </div>
 

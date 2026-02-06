@@ -1,5 +1,5 @@
 <?php
- $title = "Tłumaczenia symultaniczne Szczecin | Symultanicznie PL";
+ $title = "Tłumaczenia symultaniczne w Szczecinie – konferencje | Symultanicznie PL";
  $canonical = "https://symultanicznie.pl/tlumaczenia-symultaniczne-szczecin/";
  $description = "Symultanicznie PL — profesjonalne tłumaczenia symultaniczne w Szczecinie. Kompleksowa obsługa konferencji, kabiny tłumaczeniowe i doświadczony tłumacz symultaniczny. Poproś o wycenę.";
 ?> 
@@ -9,7 +9,7 @@
 <!-- SITE HEADER WITH NAVIGATION -->
 <header class="site-header">
   <div class="wrapper">
-    <a href="index.php" class="logo">Proling</a>
+    <a href="/" class="logo">Proling</a>
      <!-- <div class="site-header__logo">
         <img src="images/index/logo.jpg" alt="Logo biura tłumaczeń Proling" />
      </div> -->
@@ -116,7 +116,7 @@
       </h3>
 
       <p>
-        W ramach współpracy z <strong>:contentReference[oaicite:0]{index=0}</strong>,
+        W ramach współpracy z <strong>Uniwersytetem Szczecińskim</strong>,
         w szczególności z Wydziałem Historii, wielokrotnie zapewnialiśmy obsługę
         konferencji naukowych poświęconych historii regionu Pomorza Zachodniego.
         Wydarzenia te gromadziły badaczy z Polski oraz zagranicy,
@@ -124,7 +124,7 @@
       </p>
 
       <p>
-        Konferencje realizowane były w ramach cyklu
+        Tłumacze symultaniczni realizowali cykl konferencji
         <em>„Mare Pomerania Confinium”</em>,
         którego tematyka obejmowała m.in. historię regionu,
         dzieje miast portowych, funkcjonowanie Ligi Hanzeatyckiej
@@ -133,7 +133,7 @@
       </p>
 
       <p>
-        Nasza obsługa obejmowała przygotowanie zaplecza technicznego,
+        Nasze <strong>szczecińskie biuro tłumaczeń</strong> świadczyło usługi obejmujące przygotowanie zaplecza technicznego,
         konfigurację kabin tłumaczeniowych oraz pracę zespołów tłumaczy
         konferencyjnych przygotowanych do specjalistycznej terminologii
         z zakresu historii, archiwistyki i nauk humanistycznych.
@@ -287,7 +287,7 @@
         Zapewnienie sprawnej obsługi symultanicznej
         pozwala uczestnikom skupić się na merytoryce spotkania,
         niezależnie od języka wystąpień.
-        Każdy projekt traktujemy indywidualnie,
+        <strong>Każdy projekt traktujemy indywidualnie</strong>,
         dostosowując rozwiązania techniczne do warunków wydarzenia.
       </p>
 
@@ -408,6 +408,160 @@
   </div>
 </section>
 
+<!-- Benefits Icons section - four columns -->
+<section class="section-margin">
+
+  <div class="benefits-header">
+    <h2 class="headline 
+    headline--centered 
+    headline--b-margin-medium">
+    Symultaniczne czy konsekutywne?
+    </h2>
+
+    <h3 class="headline 
+      headline--centered 
+      headline--light
+      headline--small
+      headline--b-margin-large
+      headline--dark-blue
+      headline--margin-top
+      ">
+      Niezależnie od formatu tłumaczenia — zapewniamy profesjonalną obsługę konferencji
+      i sprawną komunikację podczas wydarzeń organizowanych w Szczecinie i regionie
+    </h3>
+  </div>
+
+  <div class="benefits-grid">
+
+    <div class="benefit-item">
+      <h3 class="headline headline--small headline--centered">
+        Dopasowana wycena
+      </h3>
+      <span class="icon">★</span>
+      <p class="paragraph-centered">
+        Przygotowujemy indywidualną i przejrzystą wycenę tłumaczeń symultanicznych
+        w Szczecinie, uwzględniając liczbę języków, czas trwania wydarzenia
+        oraz zakres zaplecza technicznego.
+      </p>
+    </div>
+
+    <div class="benefit-item">
+      <h3 class="headline headline--small headline--centered">
+        Wysoka jakość przekładu
+      </h3>
+      <span class="icon">★</span>
+      <p class="paragraph-centered">
+        Pracujemy wyłącznie z <strong>doświadczonymi tłumaczami konferencyjnymi</strong>,
+        przygotowanymi merytorycznie do tematyki wydarzenia i pracy w dynamicznych
+        warunkach konferencyjnych.
+      </p>
+    </div>
+
+    <div class="benefit-item">
+      <h3 class="headline headline--small headline--centered">
+        Wsparcie techniczne
+      </h3>
+      <span class="icon">★</span>
+      <p class="paragraph-centered">
+        Zapewniamy kompletne zaplecze techniczne w Szczecinie:
+        kabiny tłumaczeniowe, konsole, zestawy słuchawkowe
+        oraz obsługę audio dla wydarzeń stacjonarnych i hybrydowych.
+      </p>
+    </div>
+
+    <div class="benefit-item">
+      <h3 class="headline headline--small headline--centered">
+        Specjalistyczna wiedza
+      </h3>
+      <span class="icon">★</span>
+      <p class="paragraph-centered">
+        Znajomość terminologii branżowej — od biznesu i prawa,
+        przez energetykę i środowisko, po sport i sektor publiczny —
+        pozwala nam zapewnić precyzyjny i spójny przekład.
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- Team -->
+<section id="o_nas" class="section-margin">
+  <h2 class="headline
+  headline--centered 
+  headline--b-margin-medium
+  headline--margin-top">
+    Nasz zespół tłumaczy konferencyjnych
+  </h2>
+
+  <div class="team-grid">
+
+    <div class="team-card">
+      <p class="our-team">
+        Odpowiada za koordynację projektów tłumaczeniowych oraz zaplecze techniczne
+        wydarzeń konferencyjnych. Od lat związany z tłumaczeniami ustnymi,
+        wspiera realizacje w różnych miastach Polski, dbając o spójność pracy
+        zespołów tłumaczy oraz niezawodność rozwiązań technicznych.
+        Szczególną uwagę przykłada do przygotowania wydarzeń wymagających
+        pracy symultanicznej w dynamicznym środowisku konferencyjnym.
+      </p>
+      <div class="image-and-name">
+        <img 
+          class="head-picture"
+          src="./images/small/dobry-tlumacz-symultaniczny-Poznan.jpg" 
+          alt="Jakub Skrzeczkowski – koordynator projektów tłumaczeń konferencyjnych" 
+          width="250" 
+          height="250" 
+          loading="lazy">
+        <p class="name-text">Jakub Skrzeczkowski</p>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <p class="our-team">
+        Tłumacz konferencyjny języka angielskiego z doświadczeniem
+        w obsłudze wydarzeń akademickich, społecznych i kulturalnych.
+        Pracuje zarówno w kabinie, jak i przy realizacjach hybrydowych
+        oraz online. Regularnie uczestniczy w konferencjach i debatach
+        z udziałem międzynarodowych prelegentów, gdzie kluczowa jest
+        precyzja przekazu i płynność komunikacji.
+      </p>
+      <div class="image-and-name">
+        <img 
+          class="head-picture"
+          src="./images/small/tlumacz-symultaniczny-jezyka-angielskiego.jpg" 
+          alt="Józef Jaskulski – tłumacz konferencyjny języka angielskiego" 
+          width="250" 
+          height="250" 
+          loading="lazy">
+        <p class="name-text">Józef Jaskulski</p>
+      </div>
+    </div>
+
+    <div class="team-card">
+      <p class="our-team">
+        Odpowiada za kontakt z klientami oraz organizację logistyczną
+        obsługi konferencji i wydarzeń biznesowych.
+        Koordynuje przygotowanie zespołów tłumaczy, harmonogramy pracy
+        oraz kwestie techniczne, dbając o to, aby każdy projekt
+        przebiegał sprawnie i zgodnie z ustaleniami.
+        Jej doświadczenie wspiera realizacje zarówno stacjonarne,
+        jak i wydarzenia o charakterze hybrydowym.
+      </p>
+      <div class="image-and-name">
+        <img 
+          class="head-picture"
+          src="./images/small/pracownik-biura-tlumaczen.jpg" 
+          alt="Bożena Śliwińska – koordynacja obsługi konferencji" 
+          width="250" 
+          height="250" 
+          loading="lazy">
+        <p class="name-text">Bożena Śliwińska</p>
+     </div>
+    </div>
+
+  </div>
+</section>
+
+
 <!-- Q and A number 2 --> 
 <section class="section-faq section-margin">
 
@@ -498,19 +652,19 @@
     <h2 class="headline 
                 headline--centered
                 headline--b-margin-small">
-      Obsługa wydarzeń w Szczecinie i regionie</h2>
+      Tłumaczenia symultaniczne – Szczecin</h2>
 
     <p>
       Działamy mobilnie i obsługujemy wydarzenia organizowane
-      na terenie Szczecina oraz województwa zachodniopomorskiego.
-      Dojeżdżamy do obiektów konferencyjnych, hoteli i centrów
+      na terenie Szczecina oraz województwa zachodniopomorskiego. Nasz tłumacz symultaniczni lub tłumacze
+      Dojeżdżają do obiektów konferencyjnych, hoteli i centrów
       eventowych, dostosowując zaplecze techniczne do miejsca wydarzenia.
     </p>
 
     <p>
       Jako ogólnopolskie biuro tłumaczeń konferencyjnych realizujemy
-      projekty również w innych miastach, w tym w
-      <a href="/index.php">Gdańsku i Trójmieście</a>.
+      projekty również w innych miastach, w tym 
+      <a href="/">tłumaczymy w Gdańsku i Trójmieście</a>.
     </p>
   </div>
 </section>
@@ -521,7 +675,7 @@
   <div class="contact-top">
   <iframe
     class="contact-map"
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2331.702873918046!2d18.65305181596241!3d54.34808058019895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd73a4f1c5b5bb%3A0x9a2b0c1a6d7f8f3d!2sD%C5%82ugi%20Targ%201%2C%2080-828%20Gda%C5%84sk!5e0!3m2!1spl!2spl!4v1710000000000"
+    src="https://www.google.com/maps?q=Baltic%20Business%20Park%20Szczecin&output=embed"
     allowfullscreen=""
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade">
@@ -529,12 +683,11 @@
 
     <div class="contact-info">
       <h3 class="headline headline--small">Kontakt</h3>
-      <p><strong>Porling JS</strong><br>
-        Ulica Woźna 10,<br>
-        61-777 Gdańsk<br>
+      <p><strong>Symultanicznie PL</strong><br>
+        Ulica 1 Maja,<br>
+        Szczecin <br>
         NIP: 2810024393<br>
         biuro@symultaniczne.pl<br>
-        jakub.skrzeczkowski@gmail.com<br>
         tel: 509-662-578
       </p>
     </div>

@@ -1,7 +1,7 @@
 <!-- Dynamic $title, $canonical and $description, $meta_keywords --> 
 <?php
 $title = "Tłumaczenia symultaniczne Gdańsk – Biuro tłumaczeń | Symultanicznie PL";
-$canonical = "https://symultanicznie.pl/tlumaczenia-symultaniczne-gdansk/";
+$canonical = "https://symultanicznie.pl/";
 $description = "Symultanicznie PL — profesjonalne tłumaczenia symultaniczne w Gdańsku. Kompleksowa obsługa konferencji, kabiny tłumaczeniowe i doświadczony tłumacz. Poproś o wycenę.";
 $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk, tłumacz symultaniczny, Symultanicznie PL, tłumaczenia konferencyjne";
 ?>
@@ -10,7 +10,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
 <!-- SITE HEADER WITH NAVIGATION -->
 <header class="site-header">
   <div class="wrapper">
-    <a href="index.php" class="logo">Proling</a>
+    <a href="/" class="logo">Proling</a>
      <!-- <div class="site-header__logo">
         <img src="images/index/logo.jpg" alt="Logo biura tłumaczeń Proling" />
      </div> -->
@@ -1092,7 +1092,7 @@ $meta_keywords = "tłumaczenia symultaniczne Gdańsk, biuro tłumaczeń Gdańsk,
       </p>  
       <p>
         Obsługujemy również wydarzenia poza Trójmiastem — sprawdź naszą ofertę
-        <a href="/szczecin.php">obsługi konferencji w Szczecinie</a>.
+        <a href="/tlumaczenia-symultaniczne-szczecin/">obsługi konferencji w Szczecinie</a>.
       </p>
   </div><!-- end of centered-text-container -->
 </section>
